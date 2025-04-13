@@ -1,1 +1,1 @@
-test
+print("this is test.py")
